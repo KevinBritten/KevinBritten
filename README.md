@@ -29,7 +29,7 @@ Interested in work and collabs!
 - Solidity
 - ethers.js
 - Hardhat
-
+- ThirdWeb
 
 
 
