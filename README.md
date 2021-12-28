@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Britten, 
 
-a freelance web developer based in Montreal, Canada. 
+a *freelance web developer* based in **Montreal, Canada.**
 
 Interested in work and collabs!
 
