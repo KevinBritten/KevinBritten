@@ -6,7 +6,7 @@ Interested in work and collabs!
 
 ## I have experience with the following technologies:
 
-### *Frontend*
+#### *Frontend*
 
 - HTML
 - CSS/SCSS/SASS
