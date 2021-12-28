@@ -6,7 +6,7 @@ Interested in work and collabs!
 
 ## I have experience with the following technologies:
 
-*Frontend*
+### *Frontend*
 
 - HTML
 - CSS/SCSS/SASS
@@ -19,13 +19,13 @@ Interested in work and collabs!
 
 
 
-*Backend*
+### *Backend*
 - Node.js
 - Sanity.io
 - git/github
 - Netlify
 
-*Web3*
+### *Web3*
 - Solidity
 - ethers.js
 - Hardhat
