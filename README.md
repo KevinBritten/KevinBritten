@@ -19,13 +19,13 @@ Interested in work and collabs!
 
 
 
-### *Backend*
+#### *Backend*
 - Node.js
 - Sanity.io
 - git/github
 - Netlify
 
-### *Web3*
+#### *Web3*
 - Solidity
 - ethers.js
 - Hardhat
