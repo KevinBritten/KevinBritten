@@ -19,7 +19,7 @@ Interested in work and collabs!
 
 
 
-**Backend**
+*Backend**
 - Node.js
 - Sanity.io
 - git/github
