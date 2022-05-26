@@ -2,7 +2,9 @@
 
 a *freelance web developer* based in **Montreal, Canada.**
 
-Interested in work and collabs!
+&nbsp;<br>
+
+
 
 ## I have experience with the following technologies:
 
@@ -17,8 +19,6 @@ Interested in work and collabs!
 - Webflow
 - Figma
 
-
-
 #### *Backend*
 - Node.js
 - Sanity.io
@@ -30,6 +30,48 @@ Interested in work and collabs!
 - ethers.js
 - Hardhat
 - ThirdWeb
+
+&nbsp;<br>
+
+
+
+## These are some projects I've created:
+
+### [Naghmeh Shafiei](https://sleepy-nobel-2782d7.netlify.app/)
+
+A multi-page artist site for musician Naghmeh Shafiei. The front end is built with Vue.js, and the backend uses a Sanity.io CMS and Netlify functions to integrate Mailchimp.
+
+technologies used: Vue, Sanity, Netlify, Mailchimp API
+
+[github link](https://github.com/KevinBritten/naghmeh-music)
+
+&nbsp;<br>
+
+### [Handford.com](Handford.com)
+
+Designed by Graham Handford, I used Webflow along with custom css and javascript to bring his vision to life.
+
+technologies used: Webflow with custom css/javascript
+
+&nbsp;<br>
+
+### [B+B Scale Models](https://www.bbscalemodels.com/)
+
+A website to showcase and promote the works of B+B Scale models. Built with webflow.
+
+technologies used: Webflow with custom css/javascript
+
+&nbsp;<br>
+
+### [Evan Wintschel Photography](https://www.evanwintschel.com/)
+
+A simple photography portfolio, inlcuding a custom Sanity CMS.
+
+technologies used: Vue, Sanity
+
+[github link](https://github.com/KevinBritten/EvanWintschelPortfolio)
+
+
 
 
 
