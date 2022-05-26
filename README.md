@@ -47,7 +47,7 @@ A multi-page artist site for musician Naghmeh Shafiei. The front end is built wi
 
 &nbsp;<br>
 
-### [Handford.com](Handford.com)
+### [Handford.com](https://www.handford.com)
 
 Designed by Graham Handford, I used Webflow along with custom css and javascript to bring his vision to life.
 
