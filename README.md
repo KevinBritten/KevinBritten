@@ -41,7 +41,7 @@ a *freelance web developer* based in **Montreal, Canada.**
 
 A multi-page artist site for musician Naghmeh Shafiei. The front end is built with Vue.js, and the backend uses a Sanity.io CMS and Netlify functions to integrate Mailchimp.
 
-technologies used: Vue, Sanity, Netlify, Mailchimp API
+*technologies used:* Vue, Sanity, Netlify, Mailchimp API
 
 [github link](https://github.com/KevinBritten/naghmeh-music)
 
@@ -51,7 +51,7 @@ technologies used: Vue, Sanity, Netlify, Mailchimp API
 
 Designed by Graham Handford, I used Webflow along with custom css and javascript to bring his vision to life.
 
-technologies used: Webflow with custom css/javascript
+*technologies used:* Webflow with custom css/javascript
 
 &nbsp;<br>
 
@@ -59,7 +59,7 @@ technologies used: Webflow with custom css/javascript
 
 A website to showcase and promote the works of B+B Scale models. Built with webflow.
 
-technologies used: Webflow with custom css/javascript
+*technologies used:* Webflow with custom css/javascript
 
 &nbsp;<br>
 
@@ -67,7 +67,7 @@ technologies used: Webflow with custom css/javascript
 
 A simple photography portfolio, inlcuding a custom Sanity CMS.
 
-technologies used: Vue, Sanity
+*technologies used:* Vue, Sanity
 
 [github link](https://github.com/KevinBritten/EvanWintschelPortfolio)
 
