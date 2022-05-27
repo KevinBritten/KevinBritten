@@ -37,7 +37,7 @@ a *freelance web developer* based in **Montreal, Canada.**
 
 ## These are some projects I've created:
 
-### [Naghmeh Shafiei](https://sleepy-nobel-2782d7.netlify.app/)
+### [Naghmeh Shafiei](http://www.naghmehasong.com)
 
 A multi-page artist site for musician Naghmeh Shafiei. The front end is built with Vue.js, and the backend uses a Sanity.io CMS and Netlify functions to integrate Mailchimp.
 
