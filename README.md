@@ -37,6 +37,16 @@ a *freelance web developer* based in **Montreal, Canada.**
 
 ## These are some projects I've created:
 
+### [Spotify Song Recommender](https://shimmering-seahorse-f75a38.netlify.app/)
+
+A webapp created with Vue.js that visualizes your playlist and recommends songs to add based on criteria of your chosing. (*requires spotify account with at least one playlist*)
+
+*technologies used:* Vue, Netlify, Spotify Api
+
+[github link](https://github.com/KevinBritten/spotifyPropertiesVisualizer)
+
+&nbsp;<br>
+
 ### [Naghmeh Shafiei](http://www.naghmehasong.com)
 
 A multi-page artist site for musician Naghmeh Shafiei. The front end is built with Vue.js, and the backend uses a Sanity.io CMS and Netlify functions to integrate Mailchimp.
