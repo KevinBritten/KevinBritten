@@ -13,11 +13,11 @@ a *freelance web developer* based in **Montreal, Canada.**
 - HTML
 - CSS/SCSS/SASS
 - JS
-- TypeScript
 - React
 - Vue.js
 - Webflow
 - Figma
+- D3.js
 
 #### *Backend*
 - Node.js
@@ -36,6 +36,16 @@ a *freelance web developer* based in **Montreal, Canada.**
 
 
 ## These are some projects I've created:
+
+### [Release Radar Album Filter](https://famous-bunny-a4183b.netlify.app/)
+
+A React app that gives you only the full album releases on your "Release Radar" playlist on Spotify. See when your favorite artists put out full length releases. 
+
+*technologies used:* React, Netlify Serverless Functions, Spotify Api
+
+[github link](https://github.com/KevinBritten/release-radar-album-filter)
+
+&nbsp;<br>
 
 ### [Spotify Song Recommender](https://shimmering-seahorse-f75a38.netlify.app/)
 
