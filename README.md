@@ -41,7 +41,7 @@ a *freelance web developer* based in **Montreal, Canada.**
 
 Website for artist Marie Khouri, created from Graham Handford's design with input from Marie's team.
 
-<img width="600" src="[https://user-images.githubusercontent.com/23199739/218192232-128cff14-5696-4123-82c5-dea4ebbf3f9d.png](https://user-images.githubusercontent.com/23199739/218289955-92a7d2be-1112-49e0-a907-a113e275858c.png)" alt="Marie Khouri Sculpture screenshot">
+<img width="600" src="https://user-images.githubusercontent.com/23199739/218293305-d7ac879a-bef8-443f-b899-9b3c57aeffe9.png" alt="Marie Khouri Sculpture screenshot">
 
 *technologies used:* Webflow, Figma, Google Maps Api
 
