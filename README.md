@@ -37,6 +37,19 @@ a *freelance web developer* based in **Montreal, Canada.**
 
 ## These are some projects I've created:
 
+### [Marie Khouri Sculpture](https://www.mariekhouri.com/)
+
+Website for artist Marie Khouri, created from Graham Handford's design with input from Marie's team.
+
+<img width="600" src="[https://user-images.githubusercontent.com/23199739/218192232-128cff14-5696-4123-82c5-dea4ebbf3f9d.png](https://user-images.githubusercontent.com/23199739/218289955-92a7d2be-1112-49e0-a907-a113e275858c.png)" alt="Marie Khouri Sculpture screenshot">
+
+*technologies used:* Webflow, Figma, Google Maps Api
+
+*designed by:* Graham Handford
+
+&nbsp;<br>
+
+
 ### [Release Radar Album Filter](https://famous-bunny-a4183b.netlify.app/)
 
 A React app that gives you only the full album releases on your "Release Radar" playlist on Spotify. See when your favorite artists put out full length releases. 
@@ -84,6 +97,8 @@ Designed by Graham Handford, I used Webflow along with custom css and javascript
 
 *technologies used:* Webflow with custom css/javascript
 
+*designed by:* Graham Handford
+
 &nbsp;<br>
 
 ### [B+B Scale Models](https://www.bbscalemodels.com/)
@@ -94,12 +109,14 @@ A website to showcase and promote the works of B+B Scale models. Built with webf
 
 *technologies used:* Webflow with custom css/javascript
 
+*designed by:* Graham Handford
+
 &nbsp;<br>
 
 
 ### [Evan Wintschel Photography](https://www.evanwintschel.com/)
 
-A simple photography portfolio, inlcuding a custom Sanity CMS.
+A minimalist photography portfolio, inlcuding a custom Sanity CMS.
 
 <img width="600" src="https://user-images.githubusercontent.com/23199739/218197483-c98bbc1d-1b57-4eb8-bb47-87fc4a98cb22.png" alt="Evan Wintchel Photography screenshot">
 
