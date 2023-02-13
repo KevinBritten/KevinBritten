@@ -52,7 +52,7 @@ Website for artist Marie Khouri, created from Graham Handford's design with inpu
 
 ### [Release Radar Album Filter](https://famous-bunny-a4183b.netlify.app/)
 
-A React app that gives you only the full album releases on your "Release Radar" playlist on Spotify. See when your favorite artists put out full length releases. 
+A React app that gives you only the full album releases from your "Release Radar" playlist on Spotify. See when your favorite artists put out full length releases. 
 
 <img width="600" src="https://user-images.githubusercontent.com/23199739/218192232-128cff14-5696-4123-82c5-dea4ebbf3f9d.png" alt="Release Radar Album Filter screenshot">
 
