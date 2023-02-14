@@ -139,7 +139,7 @@ A minimalist photography portfolio, inlcuding a custom Sanity CMS.
 - Vue
 - Sanity
 
-[github link](https://github.com/KevinBritten/EvanWintschelPortfolio)
+[github link](https://github.com/KevinBritten/EvanWintschelPhotography)
 
 
 
