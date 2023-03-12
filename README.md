@@ -16,20 +16,18 @@ a *freelance web developer* based in **Montreal, Canada.**
 - React
 - Vue.js
 - Webflow
-- Figma
 - D3.js
 
 #### *Backend*
 - Node.js
 - Sanity.io
-- git/github
 - Netlify
 
-#### *Web3*
-- Solidity
-- ethers.js
-- Hardhat
-- ThirdWeb
+#### *Tools*
+- git/github
+- Figma
+
+
 
 &nbsp;<br>
 
