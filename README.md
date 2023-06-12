@@ -14,6 +14,7 @@ a *freelance web developer* based in **Montreal, Canada.**
 - CSS/SCSS/SASS
 - JS
 - React
+- Gatsby
 - Vue.js
 - Webflow
 - D3.js
