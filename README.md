@@ -101,14 +101,17 @@ A multi-page artist site for musician Naghmeh Shafiei. The front end is built wi
 &nbsp;<br>
 
 
-### [Handford.com](https://www.handford.com)
+### [Handford.com](https://unique-sunburst-dfe7f2.netlify.app/handford-creative)
 
-Designed by Graham Handford, I used Webflow along with custom css and javascript to bring his vision to life.
+Designed by Graham Handford, I built this site using HTML/CSS/Javascript. I used libraries where appropriate (Splide.js and Email.js) and compiled with Webpack. My focus was to create a lightweight responsive website, with pixel perfect precision to stay faithful to the client's design.   
 
 <img width="600" src="https://user-images.githubusercontent.com/23199739/218198972-b5471fa5-4cc7-4700-833b-08d41c4ee3e2.png" alt="Handford.com screenshot">
 
 *technologies used:* 
-- Webflow with custom css/javascript
+- HTML
+- CSS
+- Javascript
+- Node.js
 
 *designed by:* Graham Handford
 
