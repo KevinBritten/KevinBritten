@@ -72,24 +72,6 @@ A React app that gives you only the full album releases from your "Release Radar
 &nbsp;<br>
 
 
-### [Spotify Song Recommender](https://shimmering-seahorse-f75a38.netlify.app/)
-
-A webapp created with Vue.js that visualizes your playlist and recommends songs to add based on criteria of your chosing. (*requires spotify account with at least one playlist*)
-
-<a href="https://shimmering-seahorse-f75a38.netlify.app/">
-<img width="600" src="https://user-images.githubusercontent.com/23199739/218198981-021da2b5-6492-4ad1-827e-3eedc7a590ff.png" alt="Spotify Song Recommender screenshot">
-</a>
-
-*technologies used:* 
-- Vue
-- Netlify
-- Spotify Api
-
-[github link](https://github.com/KevinBritten/spotifyPropertiesVisualizer)
-
-&nbsp;<br>
-
-
 ### [Naghmeh Shafiei](http://www.naghmehasong.com)
 
 A multi-page artist site for musician Naghmeh Shafiei. The front end is built with Vue.js, and the backend uses a Sanity.io CMS and Netlify functions to integrate Mailchimp.
@@ -124,6 +106,23 @@ Designed by Graham Handford, I built this site using HTML/CSS/Javascript. I used
 - Node.js
 
 *designed by:* Graham Handford
+
+&nbsp;<br>
+
+### [Spotify Song Recommender](https://shimmering-seahorse-f75a38.netlify.app/)
+
+A webapp created with Vue.js that visualizes your playlist and recommends songs to add based on criteria of your chosing. (*requires spotify account with at least one playlist*)
+
+<a href="https://shimmering-seahorse-f75a38.netlify.app/">
+<img width="600" src="https://user-images.githubusercontent.com/23199739/218198981-021da2b5-6492-4ad1-827e-3eedc7a590ff.png" alt="Spotify Song Recommender screenshot">
+</a>
+
+*technologies used:* 
+- Vue
+- Netlify
+- Spotify Api
+
+[github link](https://github.com/KevinBritten/spotifyPropertiesVisualizer)
 
 &nbsp;<br>
 
