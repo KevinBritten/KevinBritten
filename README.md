@@ -109,6 +109,25 @@ Designed by Graham Handford, I built this site using HTML/CSS/Javascript. I used
 
 &nbsp;<br>
 
+### [Shopify Bike Shop Template](https://shopify-bikeshop-template.netlify.app/)
+
+A template site for a bicycle shop with an attached Shopify store. Includes custom translation functionality of Shopify Store to ensure all filters, fields, and shopping cart functionalities are translated.
+
+<a href="https://shopify-bikeshop-template.netlify.app/">
+<img width="600" src="https://github.com/KevinBritten/KevinBritten/assets/23199739/fa8fd661-904d-4f3e-87e1-372e21e43946" alt="shopify bike shop template screenshot">
+</a>
+
+*technologies used:* 
+- Gatsby
+- React
+- Netlify
+- Shopify
+- Node.js
+
+[github link](https://github.com/KevinBritten/Shopify-BikeShop-Template)
+
+&nbsp;<br>
+
 ### [Spotify Song Recommender](https://shimmering-seahorse-f75a38.netlify.app/)
 
 A webapp created with Vue.js that visualizes your playlist and recommends songs to add based on criteria of your chosing. (*requires spotify account with at least one playlist*)
@@ -155,8 +174,3 @@ A minimalist photography portfolio, inlcuding a custom Sanity CMS.
 - Sanity
 
 [github link](https://github.com/KevinBritten/EvanWintschelPhotography)
-
-
-
-
-
