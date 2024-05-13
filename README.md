@@ -95,7 +95,7 @@ A webapp created with Vue.js that visualizes your playlist and recommends songs 
 A multi-page artist site for musician Naghmeh Shafiei. The front end is built with Vue.js, and the backend uses a Sanity.io CMS and Netlify functions to integrate Mailchimp.
 
 <a href="http://www.naghmehasong.com">
-<img width="600" src="https://user-images.githubusercontent.com/23199739/218199224-015e78f3-7eb2-4c93-8c31-42d1ef0abd3b.png" alt="naghmehasong.com screenshot">
+<img width="600" src="https://github.com/KevinBritten/KevinBritten/assets/23199739/fe880342-4528-4218-b284-7cae94c198ce" alt="naghmehasong.com screenshot">
 </a>
 
 *technologies used:* 
@@ -156,7 +156,6 @@ A minimalist photography portfolio, inlcuding a custom Sanity CMS.
 - Sanity
 
 [github link](https://github.com/KevinBritten/EvanWintschelPhotography)
-
 
 
 
