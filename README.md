@@ -145,6 +145,7 @@ A webapp created with Vue.js that visualizes your playlist and recommends songs 
 
 &nbsp;<br>
 
+<!-- 
 ### [B+B Scale Models](https://www.bbscalemodels.com/)
 
 A website to showcase and promote the works of B+B Scale models. Built with webflow.
@@ -159,6 +160,8 @@ A website to showcase and promote the works of B+B Scale models. Built with webf
 *designed by:* Graham Handford
 
 &nbsp;<br>
+*/
+-->
 
 
 ### [Evan Wintschel Photography](https://www.evanwintschel.com/)
