@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Britten
 
-a *freelance web developer* based in **Montreal, Canada.**
+I am a *freelance web developer* based in **Montreal, Canada.**
 
 &nbsp;<br>
 
