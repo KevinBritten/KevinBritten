@@ -1,4 +1,4 @@
-# Hi, I'm Kevin Britten, 
+# Hi, I'm Kevin Britten
 
 a *freelance web developer* based in **Montreal, Canada.**
 
